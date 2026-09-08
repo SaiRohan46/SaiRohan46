@@ -1,106 +1,206 @@
-# 💫 About Me
+# 💫 About Me:
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=220&section=header&text=Sai%20Rohan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%26%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=20" alt="Sai Rohan Header" />
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=220&section=header&text=Sai%20Rohan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%26%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=20"/>
   <br/><br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%26+code;Turning+ideas+into+real-time%2C+AI-powered+products" alt="Typing SVG" />
   </a>
-
   <br/><br/>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SaiRohan46&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/SaiRohan46?label=Followers&style=flat-square&color=6366F1" alt="Followers" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=SaiRohan46&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SaiRohan46?label=Followers&style=flat-square&color=6366F1" alt="Followers"/>
 </div>
 
 ---
 
-## 🔗 Connect With Me
+<h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sai-rohan-44120a363/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SaiRohan46" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:rohansai4645@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://rohansportfolio-nu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.linkedin.com/in/sai-rohan-44120a363/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/SaiRohan46" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="mailto:rohansai4645@gmail.com" target="_blank">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://instagram.com/" target="_blank">
+          <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://discord.com/" target="_blank">
+          <img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://rohansportfolio-nu.vercel.app/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.kaggle.com/" target="_blank">
+          <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://rohansportfolio-nu.vercel.app/" target="_blank">
+          <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">🧠 Tech Stack</h2>
 
-### GenAI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<h3 align="center">GenAI / LLMs</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" height="55" alt="Claude"/></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55" alt="Ollama"/></td>
+    </tr>
+  </table>
+</div>
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<h3 align="center">Languages</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/></td>
+    </tr>
+  </table>
+</div>
 
-### AI, ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<h3 align="center">AI & ML</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="55" height="55" alt="MediaPipe"/></td>
+    </tr>
+  </table>
+</div>
 
-### Cloud, Infra & Databases
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<h3 align="center">Data Science</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" height="55" alt="Matplotlib"/></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/000000" width="55" height="55" alt="Seaborn"/></td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Web & App Dev</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="TailwindCSS"/></td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Cloud & Infra</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/></td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Databases</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="55" height="55" alt="Neo4j"/></td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Dev Tools</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ IDEA"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiRohan46&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRohan46&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=00000000" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiRohan46&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRohan46&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=00000000"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=SaiRohan46&theme=tokyonight&hide_border=true&ring=A855F7&fire=A78BFA&currStreakLabel=A78BFA&background=00000000" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SaiRohan46&theme=tokyonight&hide_border=true&ring=A855F7&fire=A78BFA&currStreakLabel=A78BFA&background=00000000"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRohan46&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRohan46&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
 
 <div align="center">
 
+### 💬
 > *"The best way to predict the future is to build it."*
+
+</div>
+
+---
+
+<div align="center">
 
 ```text
  ____        _ _     _ _             
