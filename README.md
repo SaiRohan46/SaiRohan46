@@ -1,4 +1,4 @@
-ust remove gaps don't change remaining:# 💫 About Me:
+# 💫 About Me:
 
 <div align="center">
   <img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQGDAhtMS-s4bQ/profile-displaybackgroundimage-shrink_350_1400/B56Zc5txzVGoAc-/0/1749019992303?e=1790208000&v=beta&t=QYmg9EUn0ApTgOgM3P0D8g_PpsbcjY3As3CYahIt-1o"/>
