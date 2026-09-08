@@ -10,8 +10,136 @@
   <img src="https://komarev.com/ghpvc/?username=SaiRohan46&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SaiRohan46?label=Followers&style=flat-square&color=6366F1" alt="Followers" />
 </div>
+<h2 align="center">🔗 Connect With Me</h2>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><a href="https://www.linkedin.com/in/sai-rohan-44120a363/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a></td>
+<td align="center" width="96"><a href="https://github.com/SaiRohan46" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a></td>
+<td align="center" width="96"><a href="mailto:rohansai4645@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/></a></td>
+<td align="center" width="96"><a href="https://instagram.com/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/></a></td>
+<td align="center" width="96"><a href="https://discord.com/" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/></a></td>
+<td align="center" width="96"><a href="https://rohansportfolio-nu.vercel.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/></a></td>
+<td align="center" width="96"><a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/></a></td>
+<td align="center" width="96"><a href="https://rohansportfolio-nu.vercel.app/" target="_blank"><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/></a></td>
+</tr>
+</table>
+</div>
 
-<h2 align="center">🔗 Connect With Me</h2><br><br><div align="center"><br><br><table><br><tr><br><td align="center" width="96"><br><a href="https://www.linkedin.com/in/sai-rohan-44120a363/" target="_blank"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/><br></a><br></td><br><td align="center" width="96"><br><a href="https://github.com/SaiRohan46" target="_blank"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br></a><br></td><br><td align="center" width="96"><br><a href="mailto:rohansai4645@gmail.com" target="_blank"><br><img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/><br></a><br></td><br><td align="center" width="96"><br><a href="https://instagram.com/" target="_blank"><br><img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/><br></a><br></td><br><td align="center" width="96"><br><a href="https://discord.com/" target="_blank"><br><img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/><br></a><br></td><br><td align="center" width="96"><br><a href="https://rohansportfolio-nu.vercel.app/" target="_blank"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/><br></a><br></td><br><td align="center" width="96"><br><a href="https://www.kaggle.com/" target="_blank"><br><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/><br></a><br></td><br><td align="center" width="96"><br><a href="https://rohansportfolio-nu.vercel.app/" target="_blank"><br><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/><br></a><br></td><br></tr><br></table><br><br></div><br><br>---<br><br><h2 align="center">🧠 Tech Stack</h2><br><br><h3 align="center">GenAI / LLMs</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/></td><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/></td><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude"/></td><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/></td><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55" alt="Ollama"/></td><br></tr><br></table><br></div><br><br><h3 align="center">Languages</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/></td><br></tr><br></table><br></div><br><br><h3 align="center">AI & ML</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/></td><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="55" height="55" alt="MediaPipe"/></td><br></tr><br></table><br></div><br><br><h3 align="center">Data Science</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/></td><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" height="55" alt="Matplotlib"/></td><br><td align="center" width="96"><img src="https://cdn.simpleicons.org/seaborn/000000" width="55" height="55" alt="Seaborn"/></td><br></tr><br></table><br></div><br><br><h3 align="center">Web & App Dev</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="TailwindCSS"/></td><br></tr><br></table><br></div><br><br><h3 align="center">Cloud & Infra</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55" alt="AWS"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/></td><br></tr><br></table><br></div><br><br><h3 align="center">Databases</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="55" height="55" alt="Neo4j"/></td><br></tr><br></table><br></div><br><br><h3 align="center">Dev Tools</h3><br><div align="center"><br><table><br><tr><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td><br><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ IDEA"/></td><br></tr><br></table><br></div><br><br>---<br><br><h2 align="center">📊 GitHub Analytics</h2><br><br><div align="center"><br><br><img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiRohan46&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000"/><br><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRohan46&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=00000000"/><br><br><br/><br><br><img src="https://streak-stats.demolab.com/?user=SaiRohan46&theme=tokyonight&hide_border=true&ring=A855F7&fire=A78BFA&currStreakLabel=A78BFA&background=00000000"/><br><br></div><br><br>---<br><br><h2 align="center">📈 Contribution Activity</h2><br><br><div align="center"><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRohan46&theme=tokyo-night&hide_border=true&area=true"/><br></div><br><br>---<br><br><div align="center"><br><br>### 💬<br>> *"The best way to predict the future is to build it."*<br><br></div><br><br>---<br><br><div align="center"><br><br>```<br> ____        _ _     _ _             <br>| __ ) _   _(_) | __| (_)_ __   __ _ <br>|  _ \| | | | | |/ _` | | '_ \ / _` |<br>| |_) | |_| | | | (_| | | | | | (_| |<br>|____/ \__,_|_|_|\__,_|_|_| |_|\__, |<br>                                |___/ <br><br>   status: compiling ideas into code...<br>   mode:   AI x Full-Stack<br>```<br><br></div><br><br>---<br><br><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=150&section=footer"/>
+
+<h2 align="center">🧠 Tech Stack</h2>
+
+<h3 align="center">GenAI / LLMs</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" width="55" height="55" alt="OpenAI"/></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude"/></td>
+<td align="center" width="96"><img src="https://simpleicons.org/icons/ollama.svg" width="55" height="55" alt="Ollama"/></td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Languages</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/></td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">AI & ML</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="55" height="55" alt="MediaPipe"/></td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Data Science</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/></td>
+<td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" width="55" height="55" alt="Matplotlib"/></td>
+<td align="center" width="96"><img src="https://devicons.io/devicons/icons/seaborn-icon.svg" width="55" height="55" alt="Seaborn"/></td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Web & App Dev</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="TailwindCSS"/></td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Cloud & Infra</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/></td>
+<td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="55" height="55" alt="AWS"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/></td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Databases</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="55" height="55" alt="Neo4j"/></td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Dev Tools</h3>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ IDEA"/></td>
+</tr>
+</table>
+</div>
+
+<br>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=SaiRohan46&theme=tokyonight&hide_border=true&ring=A855F7&fire=A78BFA&currStreakLabel=A78BFA&background=00000000"/>
+</div>
+
 
 
 ## 🌐 Socials:
@@ -19,21 +147,17 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SaiRohan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SaiRohan46&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SaiRohan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaiRohan46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaiRohan46&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
----
 [![](https://komarev.com/ghpvc/?username=SaiRohan46&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
